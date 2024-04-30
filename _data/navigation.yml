@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  - title: "博客"
+  - title: "Blog Posts"
+  # - title: "博客"
     url: /year-archive/
     
   # - title: "CV"
