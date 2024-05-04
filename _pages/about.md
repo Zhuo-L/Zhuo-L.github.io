@@ -1,6 +1,6 @@
 ---
 permalink: /  #初始页面
-title: "Hello Dr. Xiao ❤️"
+title: "Hello Zhuo Liu"
 author_profile: true
 redirect_from: 
   - /about/
