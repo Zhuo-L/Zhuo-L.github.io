@@ -21,7 +21,7 @@ repository               : "Zhuo-L/Zhuo-L.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yanzu.jpg"
+  avatar           : "yanzu.jpg"
   name             : "Zhuo Liu"
   pronouns         : # example: "she/her"  
   # bio              : "SouthWest University"
